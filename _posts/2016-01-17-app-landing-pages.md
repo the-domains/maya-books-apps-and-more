@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:15:13.444Z'
+datePublished: '2016-01-17T14:15:13.488Z'
 dateModified: '2016-01-17T14:15:09.980Z'
 title: App Landing Pages
 author: []
