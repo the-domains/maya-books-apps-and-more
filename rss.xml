@@ -4,7 +4,7 @@
         <description><![CDATA[Maya - Books, Apps and more....]]></description>
         <link>https://thegrid.ai/maya-books-apps-and-more/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 14:27:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maya-books-apps-and-more/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Maya's Daily Meds]]></title>
@@ -14,6 +14,13 @@
             <link>https://thegrid.ai/maya-books-apps-and-more/mayas-daily-meds/index.html</link>
             <guid isPermaLink="false">d5159079-b769-4d45-b895-779fab7ec5eb</guid>
             <pubDate>Sun, 17 Jan 2016 13:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a rose, a puppy and a kiss ]]></title>
+            <description><![CDATA[<article><h1>a rose, a puppy and a kiss </h1><p> Upon a dew drop’s kiss </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0943d6956f2a77854b15dc14beb7531ef0fb81b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maya-books-apps-and-more/a-rose-a-puppy-and-a-kiss/index.html</link>
+            <guid isPermaLink="false">c64bd3fb-2c21-4f74-b78b-251edefab544</guid>
+            <pubDate>Sun, 17 Jan 2016 14:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
