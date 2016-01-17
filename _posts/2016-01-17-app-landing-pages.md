@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:07:04.378Z'
-dateModified: '2016-01-17T14:06:21.917Z'
+datePublished: '2016-01-17T14:15:13.444Z'
+dateModified: '2016-01-17T14:15:09.980Z'
 title: App Landing Pages
 author: []
+sourcePath: _posts/2016-01-17-app-landing-pages.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-app-landing-pages.md
-published: true
 url: app-landing-pages/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b775a81-37d4-4a18-8ccb-6f124f5ffc17.jpg)
