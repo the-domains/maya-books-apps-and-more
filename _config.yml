@@ -1,6 +1,6 @@
 name: 'Maya - Books, Apps and more....'
 favicon: null
-layout_spectrum: 0.75032
+layout_spectrum: 0.6637273004744202
 typography_spectrum: 0.2872719143051654
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#010101'
-    - '#ed5974'
-    - '#af95c3'
-    - '#464f56'
-  brandStrength: 0.1875
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.32291121245361865
   lightness: 0.5504745242651552
-  saturation: 0.5625
+  saturation: 0.660521640907973
   rhythmicContrast: 0.6015890340786427
 purpose: []
