@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T14:15:15.861Z'
-dateModified: '2016-01-17T14:15:15.322Z'
+datePublished: '2016-01-17T14:15:16.102Z'
+dateModified: '2016-01-17T14:15:15.464Z'
 title: App Landing Pages
 author: []
 sourcePath: _posts/2016-01-17-app-landing-pages.md
