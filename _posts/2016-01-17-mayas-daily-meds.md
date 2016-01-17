@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A mobile app with a heart and soul
-datePublished: '2016-01-17T14:39:53.388Z'
-dateModified: '2016-01-17T14:39:50.623Z'
+datePublished: '2016-01-17T14:40:12.598Z'
+dateModified: '2016-01-17T14:40:10.223Z'
 title: "Maya's Daily Meds"
 author: []
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: mayas-daily-meds/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96b02e30d305b9a0b02a1aa26f68582f797856a.jpg)
