@@ -15,9 +15,9 @@ keywords:
   - tzu
   - shih
   - eyes
-description: "Maya Book II - The Dream Crystal awoke in a rush, rubbing her eyes and looking around for Maya. She found her at the foot of the bed, all stretched out; her warm, furry little body was molded tightly against Crystal's legs. Crystal let out a sigh of relief, and with a contented smile, she lay back down."
-datePublished: '2016-03-19T10:22:32.930Z'
-dateModified: '2016-03-19T10:21:26.997Z'
+description: 'Maya Book II - The Dream, by Rich Okun, at Bedtime-Story.com'
+datePublished: '2016-03-19T10:24:25.691Z'
+dateModified: '2016-03-19T10:24:04.445Z'
 author: []
 related: []
 app_links: []
