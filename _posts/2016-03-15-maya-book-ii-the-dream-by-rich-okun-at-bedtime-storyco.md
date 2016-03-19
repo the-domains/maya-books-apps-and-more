@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://the-office.com'
-  name: The-office
-  favicon: null
-  domain: the-office.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - crystal
   - maya
@@ -18,17 +16,21 @@ keywords:
   - shih
   - eyes
 description: "Maya Book II - The Dream Crystal awoke in a rush, rubbing her eyes and looking around for Maya. She found her at the foot of the bed, all stretched out; her warm, furry little body was molded tightly against Crystal's legs. Crystal let out a sigh of relief, and with a contented smile, she lay back down."
-inLanguage: en
+datePublished: '2016-03-19T10:21:18.429Z'
+dateModified: '2016-03-15T13:44:44.337Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://the-office.com/bedtime-story/maya2.htm'
 title: 'Maya - Book II, The Dream, by Rich Okun, at Bedtime-Story.com'
-datePublished: '2016-03-15T13:38:36.359Z'
-dateModified: '2016-03-14T09:49:21.576Z'
 sourcePath: _posts/2016-03-15-maya-book-ii-the-dream-by-rich-okun-at-bedtime-storyco.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The-office
+  domain: the-office.com
+  url: 'http://the-office.com'
+  favicon: null
+url: maya-book-ii-the-dream-by-rich-okun-at-bedtime-storyco/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
