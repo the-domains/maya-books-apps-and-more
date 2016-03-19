@@ -16,12 +16,12 @@ keywords:
   - shih
   - eyes
 description: 'Maya Book II - The Dream, by Rich Okun, at Bedtime-Story.com'
-datePublished: '2016-03-19T10:25:08.893Z'
-dateModified: '2016-03-19T10:24:34.596Z'
+datePublished: '2016-03-19T10:27:15.072Z'
+dateModified: '2016-03-19T10:26:03.011Z'
 author: []
 related: []
 app_links: []
-title: 'Maya - Book II, The Dream, by Rich Okun, at Bedtime-Story.com'
+title: 'Maya - Book II, The Dream'
 sourcePath: _posts/2016-03-15-maya-book-ii-the-dream-by-rich-okun-at-bedtime-storyco.md
 published: true
 authors: []
