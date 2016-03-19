@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://the-office.com'
-  name: The-office
-  favicon: null
-  domain: the-office.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - maya
   - crystal
@@ -18,17 +16,21 @@ keywords:
   - olly
   - eyes
 description: "Bedtime-Story For the Busy Business-Parent Whimsical Bedtime Stories for Children of All AgesFeeling very dizzy, faster, spinning ever faster on the ground, arms up-reaching and out-stretched to that big open sky. http://www.Bedtime-Story.com Maya \"Olly Olly Oxen Free,\" in fine musical tone. \"Olly Olly Oxen Free.\" Luke couldn't find his sister."
-inLanguage: en
+datePublished: '2016-03-19T10:21:02.126Z'
+dateModified: '2016-03-19T10:20:52.472Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://the-office.com/bedtime-story/maya.htm'
-title: 'MAYA, by Rich Okun, at BEDTIME-STORY.COM'
-datePublished: '2016-03-15T13:38:25.169Z'
-dateModified: '2016-03-14T09:48:32.236Z'
+title: MAYA - Book 1
 sourcePath: _posts/2016-03-15-maya-by-rich-okun-at-bedtime-storycom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The-office
+  domain: the-office.com
+  url: 'http://the-office.com'
+  favicon: null
+url: maya-book-1/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
