@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Splashscreens for the mobile app Maya's Daily Meds for your heart, mind and soul. Free download see www.thesunthemoonthestarsandmaya.com/app­/"
-datePublished: '2016-03-19T16:58:11.335Z'
-dateModified: '2016-03-19T16:58:09.758Z'
+datePublished: '2016-03-19T17:21:22.068Z'
+dateModified: '2016-03-19T17:21:21.790Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
