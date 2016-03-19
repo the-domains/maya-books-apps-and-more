@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Maya - Stories, Apps and more....]]></title>
         <description><![CDATA[Maya - Stories, Apps and more....]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maya-books-apps-and-more/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 10:53:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 10:54:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maya-books-apps-and-more/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acf1fd2c-968a-4b87-a28e-2186a67f5a07.jpg" alt="" title="">]]></description>
             <link>https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75b90b31232b52499fa46d7ebbd1413d/passthrough.jpg?height=600&amp;input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Facf1fd2c-968a-4b87-a28e-2186a67f5a07.jpg</link>
             <guid isPermaLink="false">d4cd44eb-15d6-4dbc-9ce2-eeb137ea9489</guid>
-            <pubDate>Sat, 19 Mar 2016 10:52:38 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 10:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
