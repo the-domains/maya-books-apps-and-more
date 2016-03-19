@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While smartphone Apps are an integral part of our daily lives and can deliver everything from the vital to the ridiculous, few have the ability to impact their users after an iPhone is back in the pocket. However, an empowering and transformative App from artist/author Rich Okun is about to do just that, in a true-world’s first.\n \n‘Maya’s Daily Meds’ is a holistic new App that delivers inspiration and meditation to calm the spirit and ground users for a productive day. "
-datePublished: '2016-03-19T16:33:27.551Z'
-dateModified: '2016-03-19T16:33:04.682Z'
+datePublished: '2016-03-19T17:03:39.409Z'
+dateModified: '2016-03-19T17:03:34.215Z'
 title: "Maya's Daily Meds"
 author: []
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
@@ -39,15 +39,12 @@ The App is available for the iPhone and the iPad in two versions -- one free and
 You can upgrade to the FULL version, for a dollar that provides a post everyday, as well as a myriad of other features including; customizable delivery times, audio for each quote, a navigable archive and the ability to share posts via social networks. 
 
 Whatever version an individual chooses, Okun guarantees that the App's cute, serious, whimsical and always-surprising messages will delight and move all in thought and feeling.
-'Maya's Daily Meds' is NOW available:
-iPhone FREE 
+'Maya's Daily Meds' is NOW available: 
 
-Download here 
+Downloads 
 
-iphone https://itunes.apple.com/us/app/mayas-daily-meds/id878574369?ls=1&mt=8 
+iphone FREE Download here   https://itunes.apple.com/us/app/mayas-daily-meds/id878574369?ls=1&mt=8 
 
-iPad FREE Download here. https://itunes.apple.com/us/app/mayas-daily-meds-ipad/id879005971?ls=1&mt=8
+iPad FREE Download here   https://itunes.apple.com/us/app/mayas-daily-meds-ipad/id879005971?ls=1&mt=8
 
-FREE Download here https://play.google.com/store/apps/details?id=com.mayas.dailymeditation&hl=enAndroid 
-
-https://play.google.com/store/apps/details?id=com.mayas.dailymeditation&hl=en
+Android  FREE Download here   https://play.google.com/store/apps/details?id=com.mayas.dailymeditation&hl=en
