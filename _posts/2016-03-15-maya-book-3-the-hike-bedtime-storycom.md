@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://the-office.com'
-  name: The-office
-  favicon: null
-  domain: the-office.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - maya
   - crystal
@@ -18,17 +16,21 @@ keywords:
   - climbing
   - condor
 description: "Maya Book III - The Hike This tale is a marvelous Learning Adventure. Many of the wonderful illustrations are clickable to display actual photographs. Underlined words are clickable as well. Enjoy! Luke Winstead knelt to pat the head of a small reddish brown and white puppy who was bouncing about in his sister's lap as she relaxed on the cool green grass."
-inLanguage: en
+datePublished: '2016-03-19T10:21:30.800Z'
+dateModified: '2016-03-15T13:44:57.914Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://the-office.com/bedtime-story/maya3.htm'
 title: 'Maya, Book 3, The Hike Bedtime-Story.com'
-datePublished: '2016-03-15T13:38:46.483Z'
-dateModified: '2016-03-14T09:49:32.005Z'
 sourcePath: _posts/2016-03-15-maya-book-3-the-hike-bedtime-storycom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The-office
+  domain: the-office.com
+  url: 'http://the-office.com'
+  favicon: null
+url: maya-book-3-the-hike-bedtime-storycom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
