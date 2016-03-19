@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Richard Okun
-    url: 'https://www.youtube.com/user/richokun'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - trailer
   - marvel
@@ -21,7 +16,13 @@ keywords:
   - '723'
   - '918'
 description: "Splashscreens for the mobile app Maya's Daily Meds for your heart, mind and soul. Free download see www.thesunthemoonthestarsandmaya.com/app/"
-inLanguage: en
+datePublished: '2016-03-19T16:10:30.338Z'
+dateModified: '2016-03-19T16:10:27.796Z'
+author:
+  - name: Richard Okun
+    url: 'https://www.youtube.com/user/richokun'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=t8sG1lztn84&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=t8sG1lztn84'
 title: Spashscreens
-datePublished: '2016-03-19T16:09:59.354Z'
-dateModified: '2016-03-19T16:09:19.006Z'
 sourcePath: _posts/2016-03-19-spashscreens.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: spashscreens/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
