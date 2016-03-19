@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T15:06:41.989Z'
-dateModified: '2016-03-19T15:06:35.819Z'
+datePublished: '2016-03-19T15:58:11.027Z'
+dateModified: '2016-03-19T15:57:24.274Z'
 title: App Landing Pages
 author: []
 sourcePath: _posts/2016-01-17-app-landing-pages.md
@@ -23,7 +23,6 @@ _type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1d324acc07dd46d3e541eff8c86de8f2988ee6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd537a70a060517b96dafdecade6ca6076e1c86.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1b17447fc0f8654531316e91e5419c047f99e1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab5d38cdb496336602f0fe8efead4f4ee5585cde.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1a9343967beaef32536cd259060c80b7ceefcd.jpg)
@@ -35,3 +34,5 @@ _type: WebPage
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9afd9addf196ac752ea2aad083e943d990dea200.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/69270b9581f271ef892638a16c99912fd58bc2e9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/29defe7e34fbd94d325ae14e9d11148b745e4b53.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dfcee20-0467-4120-af07-bb8310eb5af5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2767244a-2d46-4e88-ac2c-c47fb6a0f7ab.jpg)
