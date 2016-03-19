@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While smartphone Apps are an integral part of our daily lives and can deliver everything from the vital to the ridiculous, few have the ability to impact their users after an iPhone is back in the pocket. However, an empowering and transformative App from artist/author Rich Okun is about to do just that, in a true-world’s first.\n \n‘Maya’s Daily Meds’ is a holistic new App that delivers inspiration and meditation to calm the spirit and ground users for a productive day. "
-datePublished: '2016-03-19T15:58:19.525Z'
-dateModified: '2016-03-19T15:58:12.389Z'
+datePublished: '2016-03-19T16:32:56.735Z'
+dateModified: '2016-03-19T16:31:39.474Z'
 title: "Maya's Daily Meds"
 author: []
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
@@ -44,7 +44,10 @@ iPhone FREE
 
 Download here 
 
-https://itunes.apple.com/us/app/mayas-daily-meds/id878574369?ls=1&mt=8
+iphone https://itunes.apple.com/us/app/mayas-daily-meds/id878574369?ls=1&mt=8 
+
 iPad FREE Download here. https://itunes.apple.com/us/app/mayas-daily-meds-ipad/id879005971?ls=1&mt=8
+
+FREE Download here https://play.google.com/store/apps/details?id=com.mayas.dailymeditation&hl=enAndroid 
 
 https://play.google.com/store/apps/details?id=com.mayas.dailymeditation&hl=en
