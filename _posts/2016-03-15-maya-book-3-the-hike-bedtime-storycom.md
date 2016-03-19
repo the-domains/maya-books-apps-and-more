@@ -16,12 +16,12 @@ keywords:
   - climbing
   - condor
 description: "Maya Book III - The Hike This tale is a marvelous Learning Adventure. Many of the wonderful illustrations are clickable to display actual photographs. Underlined words are clickable as well. Enjoy! Luke Winstead knelt to pat the head of a small reddish brown and white puppy who was bouncing about in his sister's lap as she relaxed on the cool green grass."
-datePublished: '2016-03-19T10:22:28.124Z'
-dateModified: '2016-03-19T10:21:39.582Z'
+datePublished: '2016-03-19T10:26:36.049Z'
+dateModified: '2016-03-19T10:25:28.471Z'
 author: []
 related: []
 app_links: []
-title: 'Maya, Book 3, The Hike Bedtime-Story.com'
+title: 'Maya Book 3 The Hike '
 sourcePath: _posts/2016-03-15-maya-book-3-the-hike-bedtime-storycom.md
 published: true
 authors: []
