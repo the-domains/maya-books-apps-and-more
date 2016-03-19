@@ -1,26 +1,29 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: "Splashscreens for the mobile app Maya's Daily Meds for your heart, mind and soul. Free download see www.thesunthemoonthestarsandmaya.com/app­/"
+datePublished: '2016-03-19T16:57:40.694Z'
+dateModified: '2016-03-19T16:57:33.603Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Splashscreens for the mobile app Maya's Daily Meds for your heart, mind and soul. Free download see www.thesunthemoonthestarsandmaya.com/app­/"
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-eyPNP4F-g0'
 title: "Maya's Daily Meds Splashscreens"
-datePublished: '2016-03-19T16:57:25.740Z'
-dateModified: '2016-03-19T16:56:30.474Z'
 sourcePath: _posts/2016-03-19-mayas-daily-meds-splashscreens.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: mayas-daily-meds-splashscreens/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
