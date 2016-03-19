@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A mobile app with a heart and soul
-datePublished: '2016-01-17T14:40:12.666Z'
-dateModified: '2016-01-17T14:40:10.223Z'
+datePublished: '2016-03-19T10:21:48.969Z'
+dateModified: '2016-01-30T13:31:36.231Z'
 title: "Maya's Daily Meds"
 author: []
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
