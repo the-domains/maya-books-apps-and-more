@@ -1,28 +1,27 @@
 ---
-datePublished: '2016-06-13T13:37:46.226Z'
-sourcePath: _posts/2016-06-13-maya-posts.md
-inFeed: false
-authors: []
-hasPage: true
+datePublished: '2016-06-13T13:42:10.875Z'
+isBasedOnUrl: 'https://thegrid.ai/maya/'
 keywords: []
+related: []
 author: []
-dateModified: '2016-06-13T13:37:16.406Z'
-title: Click Maya posts
-publisher: null
-description: 'Maya Posts '
-inLanguage: null
-inNav: true
+dateModified: '2016-06-13T13:41:53.936Z'
+title: Maya posts
+app_links: []
+publisher:
+  url: 'https://thegrid.ai'
+  name: Thegrid
+  favicon: null
+  domain: thegrid.ai
+description: ''
 starred: false
-url: maya-posts/index.html
-_type: WebPage
+sourcePath: _posts/2016-06-13-maya-posts.md
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2fae72-bced-46f1-bbef-9bafaabbfa5e.jpg)
+# Maya posts
 
-# Click Maya posts
-
-[Maya Posts ][0]
-
-https://thegrid.ai/maya/
-
-[0]: https://thegrid.ai/maya/
+<article style=""><h1>Maya</h1></article>
