@@ -1,17 +1,17 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Maya Posts '
-datePublished: '2016-06-13T13:38:10.069Z'
-dateModified: '2016-06-13T13:37:54.719Z'
-title: Click Maya posts
-author: []
+datePublished: '2016-06-13T13:37:46.226Z'
 sourcePath: _posts/2016-06-13-maya-posts.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-13T13:37:16.406Z'
+title: Click Maya posts
 publisher: null
+description: 'Maya Posts '
+inLanguage: null
+inNav: true
 starred: false
 url: maya-posts/index.html
 _type: WebPage
