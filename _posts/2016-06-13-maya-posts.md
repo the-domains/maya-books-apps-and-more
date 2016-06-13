@@ -1,23 +1,25 @@
 ---
-datePublished: '2016-06-13T13:42:10.875Z'
-isBasedOnUrl: 'https://thegrid.ai/maya/'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-06-13T13:43:15.201Z'
+dateModified: '2016-06-13T13:43:04.180Z'
 related: []
 author: []
-dateModified: '2016-06-13T13:41:53.936Z'
 title: Maya posts
 app_links: []
-publisher:
-  url: 'https://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
-description: ''
-starred: false
 sourcePath: _posts/2016-06-13-maya-posts.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Thegrid
+  domain: thegrid.ai
+  url: 'https://thegrid.ai'
+  favicon: null
+starred: false
+url: maya-posts/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
