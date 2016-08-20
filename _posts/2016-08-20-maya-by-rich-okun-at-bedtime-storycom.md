@@ -24,16 +24,14 @@ description: >-
   old family farms and wooded wetlands.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://the-office.com/bedtime-story/maya.htm'
 title: 'MAYA, by Rich Okun, at BEDTIME-STORY.COM'
-datePublished: '2016-08-20T17:36:19.198Z'
-dateModified: '2016-08-20T17:33:43.916Z'
+datePublished: '2016-08-20T17:37:24.092Z'
+dateModified: '2016-08-20T17:37:23.734Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-maya-by-rich-okun-at-bedtime-storycom.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: maya-by-rich-okun-at-bedtime-storycom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
