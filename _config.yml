@@ -31,9 +31,6 @@ navigation:
   - name: App Splashscreens
     id: 3d439992-9d3b-4022-ac57-ac2a7db1f490
     type: content
-  - name: 'Maya Book III The Hike '
-    id: 21a169a4-5f6e-4782-9286-d8e3b0f2cde5
-    type: content
   - name: Maya - Book 1 - She came
     id: 799d7f6d-fa40-4293-829c-9fa25fa1f181
     type: content
