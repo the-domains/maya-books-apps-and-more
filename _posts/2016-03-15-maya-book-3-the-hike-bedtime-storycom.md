@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - maya
   - crystal
@@ -15,21 +14,27 @@ keywords:
   - huayna
   - climbing
   - condor
-description: "Maya Book III - The Hike This tale is a marvelous Learning Adventure. Many of the wonderful illustrations are clickable to display actual photographs. Underlined words are clickable as well. Enjoy! Luke Winstead knelt to pat the head of a small reddish brown and white puppy who was bouncing about in his sister's lap as she relaxed on the cool green grass."
-datePublished: '2016-03-19T10:40:16.056Z'
-dateModified: '2016-03-19T10:40:14.297Z'
+description: >-
+  Maya Book III - The Hike This tale is a marvelous Learning Adventure. Many of
+  the wonderful illustrations are clickable to display actual photographs.
+  Underlined words are clickable as well. Enjoy! Luke Winstead knelt to pat the
+  head of a small reddish brown and white puppy who was bouncing about in his
+  sister's lap as she relaxed on the cool green grass.
+datePublished: '2016-08-20T17:20:20.673Z'
+dateModified: '2016-08-20T17:20:20.138Z'
 author: []
 related: []
 app_links: []
-title: 'Maya Book III The Hike '
+title: 'Maya, Book 3, The Hike Bedtime-Story.com'
 sourcePath: _posts/2016-03-15-maya-book-3-the-hike-bedtime-storycom.md
-published: true
 authors: []
 publisher:
   name: The-office
   domain: the-office.com
   url: 'http://the-office.com'
   favicon: null
+via: {}
+starred: false
 url: maya-book-3-the-hike-bedtime-storycom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
