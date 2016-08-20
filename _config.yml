@@ -40,5 +40,8 @@ navigation:
   - name: Maya - Book 1 - She came
     id: 799d7f6d-fa40-4293-829c-9fa25fa1f181
     type: content
+  - name: Maya's Daily Meds
+    id: d5159079-b769-4d45-b895-779fab7ec5eb
+    type: content
 favicon: null
 purpose: []
