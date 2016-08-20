@@ -37,5 +37,8 @@ navigation:
   - name: 'Maya - Book II, The Dream'
     id: 35e8e0a0-2406-416a-bcd5-fc3680406694
     type: content
+  - name: Maya - Book 1 - She came
+    id: 799d7f6d-fa40-4293-829c-9fa25fa1f181
+    type: content
 favicon: null
 purpose: []
