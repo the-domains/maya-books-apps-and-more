@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Please click link for many more posts Maya Posts '
-datePublished: '2016-06-17T22:02:22.545Z'
-dateModified: '2016-06-17T22:02:09.178Z'
+datePublished: '2016-08-20T17:19:59.395Z'
+dateModified: '2016-08-20T17:19:58.909Z'
 title: Maya posts
 author: []
 sourcePath: _posts/2016-06-13-maya-posts.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: click-maya-posts/index.html
 _type: WebPage
