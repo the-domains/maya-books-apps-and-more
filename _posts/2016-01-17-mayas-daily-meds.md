@@ -3,26 +3,36 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "While smartphone Apps are an integral part of our daily lives and can deliver everything from the vital to the ridiculous, few have the ability to impact their users after an iPhone is back in the pocket. However, an empowering and transformative App from artist/author Rich Okun is about to do just that, in a true-world’s first.\n \n‘Maya’s Daily Meds’ is a holistic new App that delivers inspiration and meditation to calm the spirit and ground users for a productive day. "
-datePublished: '2016-03-19T17:03:39.409Z'
-dateModified: '2016-03-19T17:03:34.215Z'
-title: "Maya's Daily Meds"
-author: []
+description: >-
+  While smartphone Apps are an integral part of our daily lives and can deliver
+  everything from the vital to the ridiculous, few have the ability to impact
+  their users after an iPhone is back in the pocket. However, an empowering and
+  transformative App from artist/author Rich Okun is about to do just that, in a
+  true-world’s first.
+   
+  ‘Maya’s Daily Meds’ is a holistic new App that delivers inspiration and
+  meditation to calm the spirit and ground users for a productive day. 
+datePublished: '2016-08-20T17:20:40.497Z'
+dateModified: '2016-08-20T17:20:40.035Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: mayas-daily-meds/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96b02e30d305b9a0b02a1aa26f68582f797856a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb95f0a9642b61d57beb1a9ce2cad076a6a1af55.jpg)
 
 While smartphone Apps are an integral part of our daily lives and can deliver everything from the vital to the ridiculous, few have the ability to impact their users after an iPhone is back in the pocket. However, an empowering and transformative App from artist/author Rich Okun is about to do just that, in a true-world's first.
 'Maya's Daily Meds' is a holistic new App that delivers inspiration and meditation to calm the spirit and ground users for a productive day. 
