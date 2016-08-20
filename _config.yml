@@ -37,5 +37,8 @@ navigation:
   - name: 'MAYA, by Rich Okun, at BEDTIME-STORY.COM'
     id: 4f7e1949-14b2-484e-abdc-9db253d8b6c4
     type: content
+  - name: Bedtime-Story 2
+    id: 84c2f03f-b33c-42ac-9d8c-20477b050f36
+    type: content
 favicon: null
 purpose: []
