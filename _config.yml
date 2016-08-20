@@ -40,5 +40,8 @@ navigation:
   - name: Bedtime-Story 2
     id: 84c2f03f-b33c-42ac-9d8c-20477b050f36
     type: content
+  - name: 'Maya, Book 3, The Hike Bedtime-Story 3'
+    id: a93922bb-d34c-476f-9ee4-48d097dc249b
+    type: content
 favicon: null
 purpose: []
