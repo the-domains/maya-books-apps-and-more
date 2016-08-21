@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://the-office.com'
-  name: The-office
-  favicon: null
-  domain: the-office.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - maya
   - picchu
@@ -22,18 +19,22 @@ description: >-
   up, settling the pup on her lap. She gently cradled Maya's head in her hands
   and told her, "You sure are a beautiful little girl, Maya. You came at just
   the right time for us.
-inLanguage: en
+datePublished: '2016-08-20T20:26:22.191Z'
+dateModified: '2016-08-20T20:26:18.387Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://the-office.com/bedtime-story/maya3.htm'
 title: 'Maya, Book 3, The Hike Bedtime-Story.com'
-datePublished: '2016-08-20T17:50:51.461Z'
-dateModified: '2016-08-20T17:50:34.006Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-maya-book-3-the-hike-bedtime-storycom.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The-office
+  domain: the-office.com
+  url: 'http://the-office.com'
+  favicon: null
+starred: false
+url: maya-book-3-the-hike-bedtime-storycom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
