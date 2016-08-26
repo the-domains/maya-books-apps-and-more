@@ -13,19 +13,15 @@ description: >-
    
   ‘Maya’s Daily Meds’ is a holistic new App that delivers inspiration and
   meditation to calm the spirit and ground users for a productive day. 
-datePublished: '2016-08-20T17:20:40.497Z'
-dateModified: '2016-08-20T17:20:40.035Z'
+datePublished: '2016-08-25T22:12:30.910Z'
+dateModified: '2016-08-25T22:12:30.471Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-01-17-mayas-daily-meds.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
 starred: false
 url: mayas-daily-meds/index.html
