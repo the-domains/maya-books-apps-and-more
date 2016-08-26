@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Maya posts
-    id: 6af57fef-b2e4-48a2-b54d-2b8ff7a7c21b
-    type: content
   - name: App Splashscreens
     id: 3d439992-9d3b-4022-ac57-ac2a7db1f490
     type: content
