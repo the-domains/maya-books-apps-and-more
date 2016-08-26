@@ -40,5 +40,8 @@ navigation:
   - name: Maya Posts
     url: 'https://thegrid.ai/maya/'
     type: external
+  - name: Maya bedtime story 1
+    url: 'http://www.the-office.com/bedtime-story/maya.htm'
+    type: external
 favicon: null
 purpose: []
