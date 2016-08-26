@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Maya's Daily Meds
-    id: d5159079-b769-4d45-b895-779fab7ec5eb
-    type: content
   - name: Maya Posts
     url: 'https://thegrid.ai/maya/'
     type: external
