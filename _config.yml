@@ -40,5 +40,8 @@ navigation:
   - name: app Splashscreens
     id: 3d439992-9d3b-4022-ac57-ac2a7db1f490
     type: content
+  - name: Maya's Daily Meds - app
+    id: d5159079-b769-4d45-b895-779fab7ec5eb
+    type: content
 favicon: null
 purpose: []
