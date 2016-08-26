@@ -31,9 +31,6 @@ navigation:
   - name: Maya's Daily Meds
     id: d5159079-b769-4d45-b895-779fab7ec5eb
     type: content
-  - name: 'Maya, Book 3, The Hike Bedtime-Story 3'
-    id: a93922bb-d34c-476f-9ee4-48d097dc249b
-    type: content
   - name: Maya Posts
     url: 'https://thegrid.ai/maya/'
     type: external
