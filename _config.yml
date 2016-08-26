@@ -43,8 +43,5 @@ navigation:
   - name: Maya's Daily Meds - app
     id: d5159079-b769-4d45-b895-779fab7ec5eb
     type: content
-  - name: Maya'
-    url: 'https://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
-    type: external
 favicon: null
 purpose: []
