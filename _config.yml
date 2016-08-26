@@ -40,5 +40,8 @@ navigation:
   - name: Maya bedtime story 2
     url: 'http://www.the-office.com/bedtime-story/maya2.htm'
     type: external
+  - name: Maya bedtime story 3
+    url: 'http://www.the-office.com/bedtime-story/maya3.htm'
+    type: external
 favicon: null
 purpose: []
