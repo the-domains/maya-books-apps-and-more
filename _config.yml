@@ -40,5 +40,8 @@ navigation:
   - name: Maya bedtime story 3
     url: 'http://www.the-office.com/bedtime-story/maya3.htm'
     type: external
+  - name: app Splashscreens
+    id: 3d439992-9d3b-4022-ac57-ac2a7db1f490
+    type: content
 favicon: null
 purpose: []
