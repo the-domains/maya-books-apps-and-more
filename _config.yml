@@ -1,4 +1,3 @@
-layout_spectrum: 0.0896767433732748
 typography_spectrum: 0.9782039320562035
 color:
   brandColors:
@@ -15,8 +14,9 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.0896767433732748
 analytics:
-  google: null
+  google: UA-35516913-1
   facebook: null
   twitter: null
 name: 'Maya - Stories, Apps and more....'
