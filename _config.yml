@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Maya's published Books
+  - name: Buy Maya's published Books
     url: 'https://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
   - name: Maya bedtime story 1
